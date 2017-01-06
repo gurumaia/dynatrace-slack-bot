@@ -1,5 +1,6 @@
 # What is it?
 This is a Slack bot written in Python to talk to you Dynatrace dashboards via the Dynatrace REST API.
+This is very much a work in progress with some horrible code within. Check the comments in the code to see what I'm talking about.
 
 # How to use it
 1. Create a dashboards.py file in the root (check the examples dir)
