@@ -3,3 +3,4 @@ requests==2.12.4
 six==1.10.0
 slackclient==1.0.4
 websocket-client==0.40.0
+pytest==3.0.5
