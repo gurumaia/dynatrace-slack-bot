@@ -17,5 +17,3 @@ This is very much a work in progress with some horrible code within. Check the c
 
 # Borrowed stuff
 The code here leans heavily on [this post on fullstackpython](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html) including some shameless copy/paste.
-
-Let's test travis
